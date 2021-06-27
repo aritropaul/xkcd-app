@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="18122" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="fLl-6u-8Nd">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="19115.3" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="fLl-6u-8Nd">
     <device id="retina6_1" orientation="portrait" appearance="light"/>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="18093"/>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19107.5"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="Stack View standard spacing" minToolsVersion="9.0"/>
         <capability name="System colors in document resources" minToolsVersion="11.0"/>
@@ -84,7 +85,7 @@ sarcasm, math, and language.</string>
                             <tableViewSection id="GJ7-KU-pcp">
                                 <cells>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" rowHeight="70" id="fKY-v3-2Kf">
-                                        <rect key="frame" x="0.0" y="144.5" width="414" height="70"/>
+                                        <rect key="frame" x="0.0" y="170" width="414" height="70"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="fKY-v3-2Kf" id="P6X-fC-4fP">
                                             <rect key="frame" x="0.0" y="0.0" width="414" height="70"/>
@@ -118,7 +119,7 @@ sarcasm, math, and language.</string>
                                         </tableViewCellContentView>
                                     </tableViewCell>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" rowHeight="60" id="RLE-T9-URq">
-                                        <rect key="frame" x="0.0" y="214.5" width="414" height="60"/>
+                                        <rect key="frame" x="0.0" y="240" width="414" height="60"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="RLE-T9-URq" id="aTi-rb-x3K">
                                             <rect key="frame" x="0.0" y="0.0" width="414" height="60"/>
@@ -141,7 +142,7 @@ sarcasm, math, and language.</string>
                                         </tableViewCellContentView>
                                     </tableViewCell>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" rowHeight="281" id="lUa-1u-nNO">
-                                        <rect key="frame" x="0.0" y="274.5" width="414" height="281"/>
+                                        <rect key="frame" x="0.0" y="300" width="414" height="281"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="lUa-1u-nNO" id="qiQ-6R-v2i">
                                             <rect key="frame" x="0.0" y="0.0" width="414" height="281"/>
@@ -160,7 +161,7 @@ sarcasm, math, and language.</string>
                                         </tableViewCellContentView>
                                     </tableViewCell>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" rowHeight="80" id="1AQ-un-UYD">
-                                        <rect key="frame" x="0.0" y="555.5" width="414" height="80"/>
+                                        <rect key="frame" x="0.0" y="581" width="414" height="80"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="1AQ-un-UYD" id="VvS-U9-OdR">
                                             <rect key="frame" x="0.0" y="0.0" width="414" height="80"/>
@@ -184,7 +185,7 @@ sarcasm, math, and language.</string>
                                         </tableViewCellContentView>
                                     </tableViewCell>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" rowHeight="100" id="Fo1-uH-E6K">
-                                        <rect key="frame" x="0.0" y="635.5" width="414" height="100"/>
+                                        <rect key="frame" x="0.0" y="661" width="414" height="100"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="Fo1-uH-E6K" id="zi5-7N-UYX">
                                             <rect key="frame" x="0.0" y="0.0" width="414" height="100"/>
@@ -304,7 +305,7 @@ sarcasm, math, and language.</string>
                                         </tableViewCellContentView>
                                     </tableViewCell>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" rowHeight="60" id="sEd-LP-I2m">
-                                        <rect key="frame" x="0.0" y="735.5" width="414" height="60"/>
+                                        <rect key="frame" x="0.0" y="761" width="414" height="60"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="sEd-LP-I2m" id="rWY-HP-01W">
                                             <rect key="frame" x="0.0" y="0.0" width="414" height="60"/>
@@ -362,7 +363,7 @@ sarcasm, math, and language.</string>
                                         </tableViewCellContentView>
                                     </tableViewCell>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" rowHeight="60" id="oPP-CO-aJf">
-                                        <rect key="frame" x="0.0" y="795.5" width="414" height="60"/>
+                                        <rect key="frame" x="0.0" y="821" width="414" height="60"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="oPP-CO-aJf" id="hUk-Qq-Wyh">
                                             <rect key="frame" x="0.0" y="0.0" width="414" height="60"/>
@@ -420,10 +421,10 @@ sarcasm, math, and language.</string>
             </objects>
             <point key="canvasLocation" x="779.71014492753625" y="54.910714285714285"/>
         </scene>
-        <!--View Controller-->
+        <!--Settings View Controller-->
         <scene sceneID="F3c-oi-smZ">
             <objects>
-                <viewController id="r5L-uI-13O" sceneMemberID="viewController">
+                <viewController id="r5L-uI-13O" customClass="SettingsViewController" customModule="XKCD" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Ozh-JY-b0w">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -445,13 +446,66 @@ sarcasm, math, and language.</string>
                                     </label>
                                 </subviews>
                             </stackView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="BUILT with ❤️ BY ARITRO PAUL" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sLQ-PQ-lNL">
+                                <rect key="frame" x="97.5" y="740" width="219" height="18"/>
+                                <fontDescription key="fontDescription" name="xkcd-Regular" family="xkcd" pointSize="15"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hfi-dR-Svk">
+                                <rect key="frame" x="30" y="670" width="354" height="40"/>
+                                <color key="backgroundColor" systemColor="secondarySystemFillColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="40" id="8eB-6D-VqY"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="xkcd-Regular" family="xkcd" pointSize="12"/>
+                                <state key="normal" title="Buy me a coffee">
+                                    <color key="titleColor" systemColor="labelColor"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                        <integer key="value" value="8"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <action selector="BMCTapped:" destination="r5L-uI-13O" eventType="touchUpInside" id="SbI-zE-Wf9"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="age-yu-ipM">
+                                <rect key="frame" x="30" y="622" width="354" height="40"/>
+                                <color key="backgroundColor" systemColor="secondarySystemFillColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="40" id="opy-zL-8SU"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="xkcd-Regular" family="xkcd" pointSize="12"/>
+                                <state key="normal" title="View Github Repo">
+                                    <color key="titleColor" systemColor="labelColor"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                        <integer key="value" value="8"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <action selector="viewRepoTapped:" destination="r5L-uI-13O" eventType="touchUpInside" id="3QQ-oq-TX5"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="xRL-Bx-TLK"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
+                            <constraint firstItem="sLQ-PQ-lNL" firstAttribute="centerX" secondItem="Ozh-JY-b0w" secondAttribute="centerX" id="1gx-RM-fvk"/>
+                            <constraint firstItem="xRL-Bx-TLK" firstAttribute="bottom" secondItem="sLQ-PQ-lNL" secondAttribute="bottom" constant="50" id="2fG-cE-g7u"/>
                             <constraint firstItem="Spk-kb-sYT" firstAttribute="leading" secondItem="xRL-Bx-TLK" secondAttribute="leading" constant="30" id="9oT-ql-Dha"/>
+                            <constraint firstItem="hfi-dR-Svk" firstAttribute="leading" secondItem="xRL-Bx-TLK" secondAttribute="leading" constant="30" id="Env-bj-O9c"/>
+                            <constraint firstItem="xRL-Bx-TLK" firstAttribute="trailing" secondItem="hfi-dR-Svk" secondAttribute="trailing" constant="30" id="FsH-tc-vvv"/>
+                            <constraint firstItem="age-yu-ipM" firstAttribute="leading" secondItem="xRL-Bx-TLK" secondAttribute="leading" constant="30" id="IS7-qD-O5u"/>
                             <constraint firstItem="xRL-Bx-TLK" firstAttribute="trailing" secondItem="Spk-kb-sYT" secondAttribute="trailing" constant="30" id="IxZ-gI-Tl6"/>
+                            <constraint firstItem="hfi-dR-Svk" firstAttribute="top" secondItem="age-yu-ipM" secondAttribute="bottom" constant="8" symbolic="YES" id="OXC-On-0Do"/>
                             <constraint firstItem="Spk-kb-sYT" firstAttribute="top" secondItem="xRL-Bx-TLK" secondAttribute="top" constant="50" id="TUY-Ds-3ll"/>
+                            <constraint firstItem="xRL-Bx-TLK" firstAttribute="trailing" secondItem="age-yu-ipM" secondAttribute="trailing" constant="30" id="ivX-a1-dcM"/>
+                            <constraint firstItem="hfi-dR-Svk" firstAttribute="centerX" secondItem="Ozh-JY-b0w" secondAttribute="centerX" id="lu6-dX-9MN"/>
+                            <constraint firstItem="sLQ-PQ-lNL" firstAttribute="top" secondItem="hfi-dR-Svk" secondAttribute="bottom" constant="30" id="yI8-Fk-4G0"/>
                         </constraints>
                     </view>
                 </viewController>
@@ -466,7 +520,7 @@ sarcasm, math, and language.</string>
         <image name="forward.end.fill" catalog="system" width="128" height="102"/>
         <image name="forward.fill" catalog="system" width="128" height="79"/>
         <image name="gear" catalog="system" width="128" height="119"/>
-        <image name="shuffle" catalog="system" width="128" height="93"/>
+        <image name="shuffle" catalog="system" width="128" height="95"/>
         <systemColor name="labelColor">
             <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>

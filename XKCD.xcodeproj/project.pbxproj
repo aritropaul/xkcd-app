@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		30084A3726890EB500939234 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30084A3626890EB400939234 /* SettingsViewController.swift */; };
 		303DE7802664479100615779 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 303DE77F2664479100615779 /* AppDelegate.swift */; };
 		303DE7822664479100615779 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 303DE7812664479100615779 /* SceneDelegate.swift */; };
 		303DE7872664479100615779 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 303DE7852664479100615779 /* Main.storyboard */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		30084A3626890EB400939234 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		303DE77C2664479100615779 /* XKCD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XKCD.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		303DE77F2664479100615779 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		303DE7812664479100615779 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				303DE7942664485200615779 /* XKCDKit.swift */,
 				303DE796266449D000615779 /* Comic.swift */,
 				303DE7852664479100615779 /* Main.storyboard */,
+				30084A3626890EB400939234 /* SettingsViewController.swift */,
 				308BF03E2664A15A002B43C1 /* XKCDViewController.swift */,
 				308BF0402664A4D4002B43C1 /* Extensions.swift */,
 				303DE7882664479500615779 /* Assets.xcassets */,
@@ -152,6 +155,7 @@
 			files = (
 				303DE7802664479100615779 /* AppDelegate.swift in Sources */,
 				308BF0412664A4D4002B43C1 /* Extensions.swift in Sources */,
+				30084A3726890EB500939234 /* SettingsViewController.swift in Sources */,
 				303DE797266449D000615779 /* Comic.swift in Sources */,
 				303DE7952664485200615779 /* XKCDKit.swift in Sources */,
 				308BF03F2664A15B002B43C1 /* XKCDViewController.swift in Sources */,
